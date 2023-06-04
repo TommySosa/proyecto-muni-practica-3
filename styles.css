@@ -1,0 +1,22 @@
+*{
+    background-color: #201f1f;
+}
+.container{
+    display: flex; 
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.register-form{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.input-container{
+    display: block;
+}
+.inputs{
+    display: block;
+    margin-bottom: 20px;
+    border: 2px solid ;
+}
