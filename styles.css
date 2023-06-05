@@ -1,5 +1,6 @@
 *{
     background-color: #201f1f;
+    color: #fff
 }
 .container{
     display: flex; 
@@ -18,5 +19,14 @@
 .inputs{
     display: block;
     margin-bottom: 20px;
-    border: 2px solid ;
+    border: 1px solid #178ddb;
+    border-radius: 15px;
+    height: 20px;
+}
+
+button{
+    border-radius: 15px;
+    background-color: #178ddb;
+    height: 35px;
+    color:#201f1f
 }
